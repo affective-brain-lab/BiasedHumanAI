@@ -1,5 +1,7 @@
 How human-AI feedback loops alter human perceptual, emotional and social judgements
+
 Moshe Glickman1, 2 & Tali Sharot1, 2, 3
+
 1 Affective Brain Lab, Department of Experimental Psychology, University College London, London, UK
 2 Max Planck UCL Centre for Computational Psychiatry and Ageing Research, University College London, London, UK
 3 Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA
