@@ -1,25 +1,18 @@
 **How human-AI feedback loops alter human perceptual, emotional and social judgements**
-
 Moshe Glickman1, 2 & Tali Sharot1, 2, 3
-
 1 Affective Brain Lab, Department of Experimental Psychology, University College London, London, UK
 2 Max Planck UCL Centre for Computational Psychiatry and Ageing Research, University College London, London, UK
 3 Department of Brain and Cognitive Sciences, Massachusetts Institute of Technology, Cambridge, MA, USA
-
 Correspondence authors: mosheglickman345@gmail.com, t.sharot@ucl.ac.uk
 
 Artificial intelligence (AI) technologies are rapidly advancing, enhancing human capabilities across various domains spanning from finance to medicine. Despite their numerous advantages, AI systems can exhibit biases in judgments ranging from perception to emotion. Here, in a series of experiments (N=1,401), we reveal a feedback loop where human-AI interactions alter processes underlying human perceptual, emotional and social judgements, subsequently amplifying biases in humans. This amplification is significantly greater than observed in interactions between humans, due both to the tendency of AI systems to amplify biases and to how humans perceive AI systems. Participants are often unaware of the extent of the AI’s influence, rendering them more susceptible to it.  These findings reveal a mechanism wherein AI systems amplify human biases, which are further internalized by humans during human-AI interactions, triggering a snowball effect where small errors in judgment escalate into much larger ones.
 
 **Experiment 1**
-
 **Background**
-
 Experiment 1 aimed to test how interactions with AI influence human decision-making. To this end, we first collected data in an emotion aggregation task in which participants are presented with an array of 12 faces, and classify the mean emotion expressed by them as 'more sad' or 'more happy'. Humans show a slight bias to respond ‘more sad’. An AI (convolutional neural network) trained on this slightly biased dataset, further amplified the bias. Next, we show that humans interacting with the biased AI, became more biased over time. This bias amplification does not occur in the network human-human network.
 
 **Data Files:**
-
 **Level 1**
-
 •	Exp1-Level1.csv
 
 •	Exp1-Level1-SingleFace.csv
@@ -51,18 +44,16 @@ Experiment 1 aimed to test how interactions with AI influence human decision-mak
 •	Evaluating how the interaction with AI and humans affected participants bias across time.
 
 **Experiment 2**
-
 **Background**
-
 Experiment 2 sought to mimic a situation in which humans are not a-priori biased, but rather AI bias emerges for other reasons (e.g., under-represented classes). To this end, we employed a variant of the Random Dot Kinematogram task. Participants interacted with three three simple algorithms which provided either a systematically biased response (biased AI), an accurate response (accurate AI) or a noisy response (noisy AI). The results indicated that interaction with a biased AI resulted in a significant human bias relative to baseline and that interaction with an accurate AI resulted in a significant increase in accuracy relative to baseline. A reinforcement learning model provided a good fit for the data, and outperformed a baseline model which did not assume learning from the AI.
 
 **Data Files:**
 
-Exp2.csv – Interaction with the biased, accurate and noisy algorithms.
+•	Exp2.csv – Interaction with the biased, accurate and noisy algorithms.
 
-Exp2-Accurate.csv - Interaction with the accurate algorithm.
+•	Exp2-Accurate.csv - Interaction with the accurate algorithm.
 
-Exp2-Biased.csv - Interaction with the biased algorithm.
+•	Exp2-Biased.csv - Interaction with the biased algorithm.
 
 **Main analyses**
 
@@ -114,8 +105,8 @@ Experiment 5 replicated and extended the findings of Experiment 4 by investigati
 
 **Data Files:**
 
-• Exp5.csv
+•	Exp5.csv
 
 **Main analyses:**
 
-• Comparing the tendency of the treatment and control groups to select individuals from different demographic groups as  financial managers.
+•	Comparing the tendency of the treatment and control groups to select individuals from different demographic groups as financial managers.
