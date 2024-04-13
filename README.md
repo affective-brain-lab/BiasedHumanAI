@@ -1,5 +1,5 @@
-How human-AI feedback loops alter human perceptual, emotional and social judgements
-
+**How human-AI feedback loops alter human perceptual, emotional and social judgements
+**
 Moshe Glickman1, 2 & Tali Sharot1, 2, 3
 
 1 Affective Brain Lab, Department of Experimental Psychology, University College London, London, UK
@@ -10,15 +10,15 @@ Moshe Glickman1, 2 & Tali Sharot1, 2, 3
 
 Correspondence authors: mosheglickman345@gmail.com, t.sharot@ucl.ac.uk
 
-Artificial intelligence (AI) technologies are rapidly advancing, enhancing human capabilities across various domains spanning from finance to medicine. Despite their numerous advantages, AI systems can exhibit biases in judgments ranging from perception to emotion. Here, in a series of experiments (N=1,201), we reveal a feedback loop where human-AI interactions alter processes underlying human perceptual, emotional and social judgements, subsequently amplifying biases in humans. This amplification is significantly greater than observed in interactions between humans, due both to the tendency of AI systems to amplify biases and to how humans perceive AI systems. Participants are often unaware of the extent of the AI’s influence, rendering them more susceptible to it.  These findings reveal a mechanism wherein AI systems amplify human biases, which are further internalized by humans during human-AI interactions, triggering a snowball effect where small errors in judgment escalate into much larger ones.
+Artificial intelligence (AI) technologies are rapidly advancing, enhancing human capabilities across various domains spanning from finance to medicine. Despite their numerous advantages, AI systems can exhibit biases in judgments ranging from perception to emotion. Here, in a series of experiments (N=1,401), we reveal a feedback loop where human-AI interactions alter processes underlying human perceptual, emotional and social judgements, subsequently amplifying biases in humans. This amplification is significantly greater than observed in interactions between humans, due both to the tendency of AI systems to amplify biases and to how humans perceive AI systems. Participants are often unaware of the extent of the AI’s influence, rendering them more susceptible to it.  These findings reveal a mechanism wherein AI systems amplify human biases, which are further internalized by humans during human-AI interactions, triggering a snowball effect where small errors in judgment escalate into much larger ones.
 
-Experiment 1
+**Experiment 1**
 
-Background
+**Background**
 
 Experiment 1 aimed to test how interactions with AI influence human decision-making. To this end, we first collected data in an emotion aggregation task in which participants are presented with an array of 12 faces, and classify the mean emotion expressed by them as 'more sad' or 'more happy'. Humans show a slight bias to respond ‘more sad’. An AI (convolutional neural network) trained on this slightly biased dataset, further amplified the bias. Next, we show that humans interacting with the biased AI, became more biased over time. This bias amplification does not occur in the network human-human network.
 
-Data Files:
+**Data Files:**
 
 Level 1
 
