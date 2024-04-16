@@ -115,3 +115,15 @@ Experiment 5 replicated and extended the findings of Experiment 4 by investigati
 **Main analyses**
 
 •	Comparing the tendency of the treatment and control groups to select individuals from different demographic groups as financial managers.
+
+**Dependencies**
+To run the code and replicate the experiments, you will need the following dependencies:
+- MATLAB (version R2017b or higher)
+  - Statistics and Machine Learning Toolbox
+- SPSS (version 28 or higher)
+
+**Contact Information**
+For any questions or inquiries, please contact:
+- Moshe Glickman: mosheglickman345@gmail.com
+- Tali Sharot: t.sharot@ucl.ac.uk
+
